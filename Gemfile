@@ -26,6 +26,7 @@ gem 'font-awesome-rails'
 gem 'bootstrap-datepicker-rails'
 gem 'jquery-rails'
 gem 'aws-sdk'
+gem 'stripe'
 # Use CoffeeScript for .coffee assets and views
 gem 'coffee-rails', '~> 4.2'
 # Turbolinks makes navigating your web application faster. Read more: https://github.com/turbolinks/turbolinks
